@@ -1,0 +1,8 @@
+jsonpickle
+json5
+Flask
+Flask-Classful
+p2pnetwork
+requests
+pycryptodome
+
