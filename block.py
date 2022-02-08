@@ -7,7 +7,7 @@ class Block():
         self.lastHash = lastHash
         self.forger = forger
         self.blockCount = blockCount
-        self.timestamp = time.time()
+        self.timestamp = time.asctime()
         self.signature = ''
 
     @staticmethod
